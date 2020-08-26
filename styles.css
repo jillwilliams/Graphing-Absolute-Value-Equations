@@ -26,7 +26,12 @@ h1 {
     border: 1px black solid;
     outline: 1px red solid;
 }
+iframe {
+    margin: 15px 33% 15px 33%;
+    border: 1px black solid;
+    outline: 1px red solid;
+}
 footer {
     text-align: center;
-    
+    font-size: 1rem;
 }
