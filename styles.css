@@ -3,12 +3,12 @@ body {
     font-size: 1.5rem;
     letter-spacing: 3px;
     color: black;
-    background-image: linear-gradient(lightpink, hotpink);
+    background-color: lightblue;
     margin: 15px 35px 45px 35px;
 }
 h1 {
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.7rem;
 }
 #img1 {
     width: 60%;
